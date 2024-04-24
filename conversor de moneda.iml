@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/examples/android-proguard-example/src" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/extras/src/main/java" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/extras/src/test/java" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/graal-native-image-test/src/test/java" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/gson/src/main/java" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/gson/src/main/java-templates" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/gson/src/test/java" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/metrics/src/main/java" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/proto/src/main/java" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/proto/src/test/java" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/shrinker-test/src/main/java" />
+          <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/shrinker-test/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="src" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/gson-2.8.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
